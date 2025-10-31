@@ -48,7 +48,8 @@ except Exception as e:
 
 <H3> Output:</H3>
 
-![image](https://github.com/user-attachments/assets/46908032-b789-40a0-8aaf-27606ecae5bc)
+<img width="1345" height="961" alt="image" src="https://github.com/user-attachments/assets/d76b0257-0bd4-4ec4-8dfe-2e1c273589cc" />
+
 
 
 <H3> Result:</H3>
